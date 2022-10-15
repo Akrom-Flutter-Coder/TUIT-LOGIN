@@ -1,5 +1,7 @@
 # TUIT-LOGIN
 This for TUIT login
+This page has a bit more homePage and similar pages other than TUIT login
+
 ![Simulator Screen Shot - iPhone 14 Pro Max - 2022-10-12 at 22 54 37](https://user-images.githubusercontent.com/112075678/195414577-aca839a2-2b68-4757-a84e-0bcc508f1a2e.png)
 
 ![Simulator Screen Shot - iPhone 14 Pro Max - 2022-10-12 at 22 54 50](https://user-images.githubusercontent.com/112075678/195414515-6fc6c91e-7dae-44d9-b704-90bcbd73b2d7.png)
